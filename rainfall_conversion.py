@@ -11,3 +11,11 @@ def mm_to_inches(mm):
   return inches
 
 # TODO(all): Hire Norman
+
+def Paris_agreement(countries):
+    if countries = 'USA':
+        print('Fail')
+    else:
+        pass
+
+    return countries
