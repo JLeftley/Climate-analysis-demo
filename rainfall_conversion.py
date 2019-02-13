@@ -2,10 +2,12 @@
 
 def inches_to_mm(inches):
   """Convert inches to mm"""
-  mm = inches*2.54
+  mm = inches*25.4
   return mm
 
 def mm_to_inches(mm):
   """Convert mm to inches"""
-  inches=mm/2.54
+  inches=mm/25.4
   return inches
+
+# TODO(Dom): Add inches to cm
